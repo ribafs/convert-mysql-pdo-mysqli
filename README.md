@@ -20,3 +20,7 @@ Muitos são os detalhes. Confira nos exemplos.
 Alguns ótimos tutoriais de referência
 
 
+## Exemplo com mysql e PDO
+
+https://www.devmedia.com.br/crud-com-php-pdo/28873
+  
